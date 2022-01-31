@@ -1,7 +1,6 @@
 ### Hola!, soy Tomas Di Mauro 👋
 Estudio desarrollo frontend 👨‍💻, quedé 5to a nivel nacional y 1ro a nivel provicia en la competencia OIA 2021 nv.2, mantengo sitios web 🔧, opero en mercados financieros 📈 (crypto/renta variable) y participo de competencias de market making en crypto  <br>
 
-![Github](https://img.shields.io/github/followers/TomasDmArg?color=white&label=Segidores&logo=github&logoColor=white&style=for-the-badge)
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
    <img alt="LinkedIn - tomasdm" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
