@@ -4,10 +4,15 @@ Estudio desarrollo frontend 👨‍💻, quedé 5to a nivel nacional y 1ro a niv
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
    <img alt="LinkedIn - tomasdm" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<br><br>
 <a target="_blank" href="https://tmdm.com.ar" target="_blank">
-   <img alt="LinkedIn - tomasdm" src="https://img.shields.io/badge/%20Sitio%20web-%20tmdm.com.ar-red?style=for-the-badge&logo=web" />
-</a>
-![Correo](https://img.shields.io/badge/Correo%20-%20info@tmdm.com.ar%20-eee?style=for-the-badge&logo=gmail)
+   <img alt="Website" src="https://img.shields.io/badge/%20Sitio%20web-%20tmdm.com.ar-red?style=for-the-badge&logo=web" />
+</a> 
+<br>
+<br>
+<a target="_blank" href="mailto:info@tmdm.com.ar" target="_blank">
+   <img alt="Correo" src="https://img.shields.io/badge/Correo%20-%20info@tmdm.com.ar%20-eee?style=for-the-badge&logo=gmail" />
+</a> 
 
 
 ### Proyectos
