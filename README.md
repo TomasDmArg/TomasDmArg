@@ -23,10 +23,10 @@ Estudio desarrollo frontend 👨‍💻, quedé 5to a nivel nacional y 1ro a niv
 - 2021 <b> CryptoPrices v2 </b> [cryptoprices.com.ar](https://cryptoprices.com.ar)
 - 2022 <b> EnganchesDima v2 </b> [enganchesdima.com.ar](https://enganchesdima.com.ar)
 - 2022 <b> Bot CryptoPrices Discord </b>
+- 2022 <b> Verb Tenses </b> (high school project) [vt.tmdm.com.ar](https://vt.tmdm.com.ar)
 
 ### En proceso:
 - CryptoPrices v3
-- Verb tenses (high school project)
 
 ### Actualmente tengo conocimiento de:
 - HTML/CSS - **PUG**/**SASS**/LESS/STYLUS
