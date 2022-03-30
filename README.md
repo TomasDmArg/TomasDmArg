@@ -31,9 +31,15 @@ Estudio desarrollo frontend 👨‍💻, quedé 5to a nivel nacional y 1ro a niv
 
 ### Actualmente tengo conocimiento de:
 - HTML/CSS - **PUG**/**SASS**/LESS/STYLUS
+- PHP
 - JS/JSX (React, Next, Node)
 - C++ 
 - Batch
+#### Herramientas/Frameworks
+- Figma
+- Bootstrap 5
+- Tailwind
+- Next.js
 <!--
 **TomasDmArg/TomasDmArg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
