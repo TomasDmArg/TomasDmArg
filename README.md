@@ -1,7 +1,7 @@
 ### Hi!, I'm Tomas Di Mauro 👋
-Frontend Developer 👨‍💻 | Crypto Analyst 📈   
+Frontend Developer 👨‍💻 | Crypto Analyst 📈   <br>
 
-Creator of CryptoPrices.com.ar
+Creator of CryptoPrices.com.ar <br>
 5th Argentina, 1st Buenos Aires province, OIA 2021 lvl 2. I passed the jurisdictional instance, and I reached the national level.
 
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
