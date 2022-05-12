@@ -2,7 +2,7 @@
 Frontend Developer 👨‍💻 | Crypto Analyst 📈   <br>
 
 Creator of CryptoPrices.com.ar <br>
-5th Argentina, 1st Buenos Aires province, OIA 2021 lvl 2. I passed the jurisdictional instance, and I reached the national level.
+5th Argentina, 1st Buenos Aires province, OIA 2021 lvl 2 (national instance)
 
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
    <img alt="LinkedIn - tomasdm" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
