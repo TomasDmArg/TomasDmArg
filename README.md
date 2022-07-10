@@ -4,18 +4,12 @@ Fullstack 👨‍💻 / Crypto Analyst 📈 - Invicta Blockchain Ventures
 Creator of CryptoPrices.com.ar <br>
 5th Argentina, 1st Buenos Aires province, OIA 2021 lvl 2 (national instance)
 
+Email: <b>info@tmdm.com.ar</b>
+
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
    <img alt="LinkedIn - tomasdm" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br><br>
-<a target="_blank" href="https://tmdm.com.ar" target="_blank">
-   <img alt="Website" src="https://img.shields.io/badge/%20Website-%20tmdm.com.ar-red?style=for-the-badge&logo=web" />
-</a> 
-<br>
-<br>
-<a target="_blank" href="mailto:info@tmdm.com.ar" target="_blank">
-   <img alt="Correo" src="https://img.shields.io/badge/Email%20-%20info@tmdm.com.ar%20-eee?style=for-the-badge&logo=gmail" />
-</a> 
 
 
 ### Projects
@@ -37,20 +31,30 @@ Creator of CryptoPrices.com.ar <br>
 - Mar del Plata: ¿Qué sale?
 
 
-### Technologies that I use
-- HTML/CSS - **PUG**/**SASS**/LESS/STYLUS
+### I tend to use:
+- PostgreSQL
+- PUG for static sites
+- Next.js (JSX)
+- SASS (scss)
+
+#### I also know:
 - PHP
-- JS/JSX (React, Next, Node)
-- SQL/Postgres/Firebase
-- C++ (just for competitions)
+- Firestore (firebase) (NoSQL)
+- MySQL
+- Node
+- C++ (for competitions only)
 - Batch
+- LESS/Stylus
+
+#### Other tools/skills
+- Figma (UI Design)
+- Bootstrap 5 / Tailwind
+- Supabase
+- Firebase
+- Linux server admin. (Also Google/Oracle cloud)
 
 
-#### Tools/Frameworks
-- Figma
-- Bootstrap 5
-- Tailwind
-- Next.js
+
 <!--
 **TomasDmArg/TomasDmArg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
