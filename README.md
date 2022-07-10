@@ -1,5 +1,5 @@
 ### Hi!, I'm Tomas Di Mauro 👋
-Frontend Developer 👨‍💻 | Crypto Analyst 📈   <br>
+Fullstack 👨‍💻 / Crypto Analyst 📈 - Invicta Blockchain Ventures
 
 Creator of CryptoPrices.com.ar <br>
 5th Argentina, 1st Buenos Aires province, OIA 2021 lvl 2 (national instance)
