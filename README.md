@@ -11,8 +11,9 @@ Email: <b>info@tmdm.com.ar</b>
 </a>
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TomasDmArg&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://profile-counter.glitch.me/{TomasDmArg}/count.svg" alt="TomasDmArg :: Visitor's Count" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TomasDmArg&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="ovi" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=TomasDmArg&theme=dark&hide_border=true" alt="mystreak"/>
+
 
 ### Projects
 - 2019 <b> Enganches Dima (old ver.)</b> [Netlify Link](https://nervous-easley-7b832c.netlify.app/)
@@ -71,3 +72,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Visitors:
+<img src="https://profile-counter.glitch.me/{TomasDmArg}/count.svg" alt="TomasDmArg :: Visitor's Count" />
