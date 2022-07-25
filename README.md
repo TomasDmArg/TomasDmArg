@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Visitors:
+Visitors:<br/>
 <img src="https://profile-counter.glitch.me/{TomasDmArg}/count.svg" alt="TomasDmArg :: Visitor's Count" />
