@@ -25,11 +25,13 @@ Email: <b>info@tmdm.com.ar</b>
 - 2022 <b> Bot CryptoPrices Discord </b>
 - 2022 <b> Verb Tenses </b> (Proyecto EEST N5) [vt.tmdm.com.ar](https://vt.tmdm.com.ar)
 - 2022 <b> Invicta Blockchain Ventures </b> [invicta.capital](https://invicta.capital) 
+- 2022 <b> Futgool first landing page </b> [futbol.tmdm.com.ar](https://futbol.tmdm.com.ar)
+- 2022 <b> CryptoPrices v3 </b> [cryptoprices.com.ar](https://cryptoprices.com.ar)
+- 2022 <b> EEST N°5 Website </b> [eest5mdp.com.ar](https://eest5mdp.com.ar)
 
 ### Currently building
-- CryptoPrices v3
 - Invicta Blockchain Ventures Web App/Blog/Dashboard/Other integrations
-- EEST N°5 website re-design
+- Tranqui re-design
 - Futgool
 - Mar del Plata: ¿Qué sale?
 
