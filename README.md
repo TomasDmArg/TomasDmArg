@@ -4,6 +4,8 @@ Fullstack 👨‍💻 / Crypto Analyst 📈 - Invicta Blockchain Ventures
 Creator of CryptoPrices.com.ar <br>
 5th Argentina, 1st Buenos Aires province, OIA 2021 lvl 2 (national instance)
 
+High School Student @ EEST N°5 (cs)
+
 Email: <b>info@tmdm.com.ar</b>
 
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
