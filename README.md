@@ -37,9 +37,7 @@ Email: <b>info@tmdm.com.ar</b>
 
 ### Currently building
 - Invicta Blockchain Ventures Web App/Blog/Dashboard/Other integrations
-- Tranqui re-design
-- Futgool
-- Mar del Plata: ¿Qué sale?
+- MAJR DAO site, dashboard
 
 
 ### I tend to use:
