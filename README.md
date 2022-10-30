@@ -33,6 +33,7 @@ Email: <b>info@tmdm.com.ar</b>
 - 2022 <b> Futgool first landing page </b> [futbol.tmdm.com.ar](https://futbol.tmdm.com.ar)
 - 2022 <b> CryptoPrices v3 </b> [cryptoprices.com.ar](https://cryptoprices.com.ar)
 - 2022 <b> EEST N°5 Website </b> [eest5mdp.com.ar](https://eest5mdp.com.ar)
+- 2022 <b> MAJR DAO Website </b> [majrdao.io](https://majrdao.io)
 
 ### Currently building
 - Invicta Blockchain Ventures Web App/Blog/Dashboard/Other integrations
