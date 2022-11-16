@@ -9,7 +9,7 @@ Creator of CryptoPrices.com.ar <br>
 
 High School Student @ EEST N°5 (cs)
 
-Email: <b>info@tmdm.com.ar</b>
+Email: <b>info@tdm.ar</b>
 
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
    <img alt="LinkedIn - tomasdm" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
