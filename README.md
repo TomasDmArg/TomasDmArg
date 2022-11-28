@@ -3,9 +3,11 @@ Fullstack 👨‍💻 / Crypto Analyst 📈 - Invicta Blockchain Ventures
 
 Creator of CryptoPrices.com.ar <br>
 
-2nd Buenos Aires province (11th Arg), Jurisdictional Competition OIA 2022 lvl 2
+8th Argentina, OIA 2022 lvl 2
 
-5th Argentina, OIA 2021 lvl 2 (national instance)
+2nd Buenos Aires province, Jurisdictional Competition OIA 2022 lvl 2
+
+5th Argentina, OIA 2021 lvl 2
 
 High School Student @ EEST N°5 (cs)
 
