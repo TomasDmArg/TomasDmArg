@@ -36,11 +36,12 @@ Email: <b>info@tdm.ar</b>
 - 2022 <b> CryptoPrices v3 </b> [cryptoprices.com.ar](https://cryptoprices.com.ar)
 - 2022 <b> EEST N°5 Website </b> [eest5mdp.com.ar](https://eest5mdp.com.ar)
 - 2022 <b> MAJR DAO Website </b> [majrdao.io](https://majrdao.io)
+- 2022 <b> MAJR DAO Chrome extension, login/onboarding website </b> [login.majrdao.io](https://login.majrdao.io)
+- 
+### Currently building at
 
-### Currently building
-- Invicta Blockchain Ventures Web App/Blog/Dashboard/Other integrations
-- MAJR DAO site, dashboard
-
+- Invicta Blockchain Capital
+- MAJR DAO
 
 ### I tend to use:
 - PostgreSQL
