@@ -37,7 +37,7 @@ Email: <b>info@tdm.ar</b>
 - 2022 <b> EEST N°5 Website </b> [eest5mdp.com.ar](https://eest5mdp.com.ar)
 - 2022 <b> MAJR DAO Website </b> [majrdao.io](https://majrdao.io)
 - 2022 <b> MAJR DAO Chrome extension, login/onboarding website </b> [login.majrdao.io](https://login.majrdao.io)
-- 
+- 2022 <b> MAJR DAO Extension landing </b> [get.majr.io](https://get.majr.io)
 ### Currently building at
 
 - Invicta Blockchain Capital
