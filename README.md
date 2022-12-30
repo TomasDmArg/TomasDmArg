@@ -1,15 +1,9 @@
 ### Hi!, I'm Tomas Di Mauro 👋
-Fullstack 👨‍💻 / Crypto Analyst 📈 - Invicta Blockchain Ventures
+I'm a 17 year old full stack developer with experience in Typescript, Next.js and SCSS.
 
-Creator of CryptoPrices.com.ar <br>
+My passion is in frontend and UI development, and I thrive in small, energetic and challenging startup environments where I can make a big impact. In my free time, I am a crypto enthusiast, and enjoy doing research.
 
-8th Argentina, OIA 2022 lvl 2
-
-2nd Buenos Aires province, Jurisdictional Competition OIA 2022 lvl 2
-
-5th Argentina, OIA 2021 lvl 2
-
-High School Student @ EEST N°5 (cs)
+I love to compete in programming contests using C++, where I achieved the rank of 5th in my age range among all technical schools in Argentina (OIA 2022 l2)
 
 Email: <b>info@tdm.ar</b>
 
