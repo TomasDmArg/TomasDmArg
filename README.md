@@ -1,11 +1,12 @@
 ### Hi!, I'm Tomas Di Mauro 👋
-I'm a 17 year old full stack developer with experience in Typescript, Next.js and SCSS.
 
-My passion is in frontend and UI development, and I thrive in small, energetic and challenging startup environments where I can make a big impact. In my free time, I am a crypto enthusiast, and enjoy doing research.
+I'm a 17 year old cs student, and full stack developer with experience in Typescript, Next.js and SCSS.
+
+My passion is in frontend and UI development, and I thrive in energetic and challenging startup environments where I can make a big impact. In my free time, I am a crypto enthusiast, and enjoy doing research.
 
 I love to compete in programming contests using C++, where I achieved the rank of 5th in my age range among all technical schools in Argentina (OIA 2022 l2)
 
-Email: <b>info@tdm.ar</b>
+You can contact me here: <b>tomas@tdm.ar</b>
 
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
    <img alt="LinkedIn - tomasdm" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,6 +33,8 @@ Email: <b>info@tdm.ar</b>
 - 2022 <b> MAJR DAO Website </b> [majrdao.io](https://majrdao.io)
 - 2022 <b> MAJR DAO Chrome extension, login/onboarding website </b> [login.majrdao.io](https://login.majrdao.io)
 - 2022 <b> MAJR DAO Extension landing </b> [get.majr.io](https://get.majr.io)
+- 2023 <b> MAJR DAO Dashboard </b> [get.majr.io](https://dashobard.majrdao.io)
+
 ### Currently building at
 
 - Invicta Blockchain Capital
