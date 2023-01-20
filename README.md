@@ -17,7 +17,7 @@ You can contact me here: <b>tomas@tdm.ar</b>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=TomasDmArg&theme=dark&hide_border=true" alt="mystreak"/>
 
 
-### Projects
+### Projects I worked on
 - 2019 <b> Enganches Dima (old ver.)</b> [Netlify Link](https://nervous-easley-7b832c.netlify.app/)
 - 2020 <b> Vale Soñar </b> [wwww.valesoñar.com](https://xn--valesoar-i3a.com)
 - 2021 <b> CryptoPrices v1 </b>
@@ -34,6 +34,7 @@ You can contact me here: <b>tomas@tdm.ar</b>
 - 2022 <b> MAJR DAO Chrome extension, login/onboarding website </b> [login.majrdao.io](https://login.majrdao.io)
 - 2022 <b> MAJR DAO Extension landing </b> [get.majr.io](https://get.majr.io)
 - 2023 <b> MAJR DAO Dashboard </b> [dashboard.majrdao.io](https://dashobard.majrdao.io)
+- 2023 <b> MAJR DAO Website </b> [majr.io](https://majr.io)
 
 ### Currently building at
 
