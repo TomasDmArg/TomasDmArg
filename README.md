@@ -34,6 +34,7 @@ or at: https://tdm.ar
 - 2022 <b> MAJR DAO Website </b> [majrdao.io](https://majrdao.io)
 - 2022 <b> MAJR DAO Chrome extension, login/onboarding website </b> [login.majrdao.io](https://login.majrdao.io)
 - 2022 <b> MAJR DAO Extension landing </b> [get.majr.io](https://get.majr.io)
+- 2023 <b> majr-react </b> [NPM Package]([https://creators.majrdao.io](https://www.npmjs.com/package/majr-react))
 - 2023 <b> MAJR DAO Dashboard </b> [dashboard.majrdao.io](https://dashobard.majrdao.io)
 - 2023 <b> MAJR DAO Website </b> [majr.io](https://majr.io)
 - 2023 <b> MAJR Creators </b> [creators.majrdao.io](https://creators.majrdao.io)
