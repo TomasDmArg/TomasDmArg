@@ -36,6 +36,7 @@ or at: https://tdm.ar
 - 2022 <b> MAJR DAO Extension landing </b> [get.majr.io](https://get.majr.io)
 - 2023 <b> MAJR DAO Dashboard </b> [dashboard.majrdao.io](https://dashobard.majrdao.io)
 - 2023 <b> MAJR DAO Website </b> [majr.io](https://majr.io)
+- 2023 <b> MAJR Creators </b> [creators.majrdao.io](https://creators.majrdao.io)
 
 ### Currently building at
 
