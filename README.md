@@ -6,7 +6,8 @@ My passion is in frontend and UI development, and I thrive in energetic and chal
 
 I love to compete in programming contests using C++, where I achieved the rank of 5th in my age range among all technical schools in Argentina (OIA 2022 l2)
 
-You can contact me here: <b>tomas@tdm.ar</b>
+You can contact me here: <b>tomas@tdm.ar</b> 
+or at: https://tdm.ar
 
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
    <img alt="LinkedIn - tomasdm" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
