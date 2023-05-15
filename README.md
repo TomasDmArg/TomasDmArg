@@ -42,7 +42,6 @@ or at: https://tdm.ar
 ### Currently building at
 
 - Invicta Blockchain Capital
-- MAJR DAO
 
 ### I tend to use:
 - PostgreSQL
