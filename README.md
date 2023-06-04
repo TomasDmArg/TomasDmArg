@@ -4,7 +4,7 @@ I'm a 17 year old cs student, and full stack developer with experience in Typesc
 
 My passion is in frontend and UI development, and I thrive in energetic and challenging startup environments where I can make a big impact. In my free time, I am a crypto enthusiast, and enjoy doing research.
 
-I love to compete in programming contests using C++, where I achieved the rank of 5th in my age range among all technical schools in Argentina (OIA 2021 l2)
+5th Argentina - OIA 2021 l2, C++ Problem Solving
 
 You can contact me here: <b>tomas@tdm.ar</b> 
 or at: https://tdm.ar
