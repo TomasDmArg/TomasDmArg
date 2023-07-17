@@ -38,6 +38,9 @@ or at: https://tdm.ar
 - 2023 <b> MAJR DAO Dashboard </b> [dashboard.majrdao.io](https://dashobard.majrdao.io)
 - 2023 <b> MAJR DAO Website </b> [majr.io](https://majr.io)
 - 2023 <b> MAJR Creators </b> [creators.majrdao.io](https://creators.majrdao.io)
+- 2023 <b> ColosoLife Landing v1 </b> [v1.coloso.life](https://v1.coloso.life)
+- 2023 <b> ColosoLife App </b>[app.coloso.life](https://app.coloso.life)
+- 2023 <b> ColosoLife Landing v2</b>[coloso.life](https://coloso.life)
 
 ### Currently building at
 
