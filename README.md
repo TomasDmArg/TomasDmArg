@@ -1,6 +1,6 @@
 ### Hi!, I'm Tomas Di Mauro 👋
 
-I'm a 17 year old cs student, and full stack developer with experience in Typescript, Next.js and SCSS.
+I'm a 18 year old cs student, and full stack developer with experience in Typescript, Next.js and SCSS.
 
 My passion is in frontend and UI development, and I thrive in energetic and challenging startup environments where I can make a big impact. In my free time, I am a crypto enthusiast, and enjoy doing research.
 
