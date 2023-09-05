@@ -4,7 +4,8 @@ I'm an 18-year-old CS student, and full-stack developer with experience in Types
 
 My passion is in frontend and UI development, and I thrive in energetic and challenging startup environments where I can make a big impact. In my free time, I am a crypto enthusiast, and enjoy doing research.
 
-1st - ETH Argentina Hackathon 2023 Public Goods Track. Chainlink Grant. The most-voted team on quadratic funding.
+1st - ETH Argentina Hackathon 2023 Public Goods Track. Chainlink Grant. Most-voted team on quadratic funding.
+
 5th Argentina - OIA 2021 l2, C++ Problem Solving
 
 
