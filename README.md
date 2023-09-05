@@ -1,10 +1,12 @@
 ### Hi!, I'm Tomas Di Mauro 👋
 
-I'm a 18 year old cs student, and full stack developer with experience in Typescript, Next.js and SCSS.
+I'm an 18-year-old CS student, and full-stack developer with experience in Typescript, Next.js, and SCSS.
 
 My passion is in frontend and UI development, and I thrive in energetic and challenging startup environments where I can make a big impact. In my free time, I am a crypto enthusiast, and enjoy doing research.
 
+1st - ETH Argentina Hackathon 2023 Public Goods Track. Chainlink Grant. The most-voted team on quadratic funding.
 5th Argentina - OIA 2021 l2, C++ Problem Solving
+
 
 You can contact me here: <b>tomas@tdm.ar</b> 
 or at: https://tdm.ar
@@ -19,32 +21,28 @@ or at: https://tdm.ar
 
 
 ### Projects I worked on
-- 2019 <b> Enganches Dima (old ver.)</b> [Netlify Link](https://nervous-easley-7b832c.netlify.app/)
+- 2019 <b> Enganches Dima </b> [Netlify Link](https://nervous-easley-7b832c.netlify.app/)
 - 2020 <b> Vale Soñar </b> [wwww.valesoñar.com](https://xn--valesoar-i3a.com)
 - 2021 <b> CryptoPrices v1 </b>
 - 2021 <b> Sitio personal </b> [TMDM.com.ar](https://tmdm.com.ar)
 - 2021 <b> CryptoPrices v2 </b> [cryptoprices.com.ar](https://cryptoprices.com.ar)
 - 2022 <b> EnganchesDima v2 </b> [enganchesdima.com.ar](https://enganchesdima.com.ar)
 - 2022 <b> Bot CryptoPrices Discord </b>
-- 2022 <b> Verb Tenses </b> (Proyecto EEST N5) [vt.tmdm.com.ar](https://vt.tmdm.com.ar)
 - 2022 <b> Invicta Blockchain Ventures </b> [invicta.capital](https://invicta.capital) 
-- 2022 <b> Futgool first landing page </b> [futbol.tmdm.com.ar](https://futbol.tmdm.com.ar)
+- 2022 <b> Futgool </b> [futbol.tmdm.com.ar](https://futbol.tmdm.com.ar)
 - 2022 <b> CryptoPrices v3 </b> [cryptoprices.com.ar](https://cryptoprices.com.ar)
 - 2022 <b> EEST N°5 Website </b> [eest5mdp.com.ar](https://eest5mdp.com.ar)
-- 2022 <b> MAJR DAO Website </b> [majrdao.io](https://majrdao.io)
-- 2022 <b> MAJR DAO Chrome extension, login/onboarding website </b> [login.majrdao.io](https://login.majrdao.io)
-- 2022 <b> MAJR DAO Extension landing </b> [get.majr.io](https://get.majr.io)
+- 2022 <b> MAJR DAO </b> [majrdao.io](https://majrdao.io)
 - 2023 <b> majr-react </b> [NPM Package](https://www.npmjs.com/package/majr-react)
-- 2023 <b> MAJR DAO Dashboard </b> [dashboard.majrdao.io](https://dashobard.majrdao.io)
-- 2023 <b> MAJR DAO Website </b> [majr.io](https://majr.io)
+- 2023 <b> MAJR</b> [majr.io](https://majr.io)
 - 2023 <b> MAJR Creators </b> [creators.majrdao.io](https://creators.majrdao.io)
-- 2023 <b> ColosoLife Landing v1 </b> [v1.coloso.life](https://v1.coloso.life)
-- 2023 <b> ColosoLife App </b>[app.coloso.life](https://app.coloso.life)
-- 2023 <b> ColosoLife Landing v2</b>[coloso.life](https://coloso.life)
-
+- 2023 <b> ColosoLife</b> [coloso.life](https://coloso.life)
+- 2023 <b> Tranqui V2 </b>
+- 2023 <b> VeriTrust </b> [URL](https://veritrust-front-qj44in647a-uc.a.run.app/)
+  
 ### Currently building at
-
-- Invicta Blockchain Capital
+- Invicta Holdings
+- EEST N°5
 
 ### I tend to use:
 - PostgreSQL
