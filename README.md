@@ -1,15 +1,13 @@
-### Hi!, I'm Tomas Di Mauro 👋
+## Hi!, I'm Tomas Di Mauro 👋
 
-I'm an 18-year-old CS student, and full-stack developer with experience in Typescript, Next.js, and SCSS.
+Full stack developer, UI/UX at Invicta Holdings
 
-My passion is in frontend and UI development, and I thrive in energetic and challenging startup environments where I can make a big impact. In my free time, I am a crypto enthusiast, and enjoy doing research.
-
-1st - ETH Argentina Hackathon 2023 Public Goods Track. Chainlink Grant. Most-voted team on quadratic funding.
+Building VeriTrust Protocol, 1st - ETH Argentina Hackathon 2023 Public Goods Track. Chainlink Grant. Most-voted team on quadratic funding.
 
 5th Argentina - OIA 2021 l2, C++ Problem Solving
 
 
-You can contact me here: <b>tomas@tdm.ar</b> 
+You can contact me here: <b>tomas@tdm.ar</b>
 or at: https://tdm.ar
 
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
@@ -22,36 +20,30 @@ or at: https://tdm.ar
 
 
 ### Projects I worked on
-- 2019 <b> Enganches Dima </b> [Netlify Link](https://nervous-easley-7b832c.netlify.app/)
-- 2020 <b> Vale Soñar </b> [wwww.valesoñar.com](https://xn--valesoar-i3a.com)
-- 2021 <b> CryptoPrices v1 </b>
-- 2021 <b> Sitio personal </b> [TMDM.com.ar](https://tmdm.com.ar)
-- 2021 <b> CryptoPrices v2 </b> [cryptoprices.com.ar](https://cryptoprices.com.ar)
-- 2022 <b> EnganchesDima v2 </b> [enganchesdima.com.ar](https://enganchesdima.com.ar)
-- 2022 <b> Bot CryptoPrices Discord </b>
-- 2022 <b> Invicta Blockchain Ventures </b> [invicta.capital](https://invicta.capital) 
-- 2022 <b> Futgool </b> [futbol.tmdm.com.ar](https://futbol.tmdm.com.ar)
-- 2022 <b> CryptoPrices v3 </b> [cryptoprices.com.ar](https://cryptoprices.com.ar)
-- 2022 <b> EEST N°5 Website </b> [eest5mdp.com.ar](https://eest5mdp.com.ar)
-- 2022 <b> MAJR DAO </b> [majrdao.io](https://majrdao.io)
-- 2023 <b> majr-react </b> [NPM Package](https://www.npmjs.com/package/majr-react)
-- 2023 <b> MAJR</b> [majr.io](https://majr.io)
-- 2023 <b> MAJR Creators </b> [creators.majrdao.io](https://creators.majrdao.io)
-- 2023 <b> ColosoLife</b> [coloso.life](https://coloso.life)
-- 2023 <b> Tranqui V2 </b>
 - 2023 <b> VeriTrust </b> [URL](https://veritrust-front-qj44in647a-uc.a.run.app/)
+- 2023 <b> Tranqui V2 </b>
+- 2023 <b> ColosoLife</b> [coloso.life](https://coloso.life)
+- 2023 <b> MAJR Creators </b> [creators.majrdao.io](https://creators.majrdao.io)
+- 2023 <b> MAJR</b> [majr.io](https://majr.io)
+- 2023 <b> majr-react </b> [NPM Package](https://www.npmjs.com/package/majr-react)
+- 2022 <b> MAJR DAO </b> [majrdao.io](https://majrdao.io)
+- 2022 <b> EEST N°5 Website </b> [eest5mdp.com.ar](https://eest5mdp.com.ar)
+- 2022 <b> CryptoPrices v3 </b> [cryptoprices.com.ar](https://cryptoprices.com.ar)
+- 2022 <b> Futgool </b> [futbol.tmdm.com.ar](https://futbol.tmdm.com.ar)
+- 2022 <b> Invicta Blockchain Ventures </b> [invicta.capital](https://invicta.capital) 
+- 2022 <b> Bot CryptoPrices Discord </b>
+- 2022 <b> EnganchesDima v2 </b> [enganchesdima.com.ar](https://enganchesdima.com.ar)
+- 2021 <b> CryptoPrices v2 </b> [cryptoprices.com.ar](https://cryptoprices.com.ar)
+- 2021 <b> Sitio personal </b> [TMDM.com.ar](https://tmdm.com.ar)
+- 2021 <b> CryptoPrices v1 </b>
+- 2020 <b> Vale Soñar </b> [wwww.valesoñar.com](https://xn--valesoar-i3a.com)
+- 2019 <b> Enganches Dima </b> [Netlify Link](https://nervous-easley-7b832c.netlify.app/)
   
-### Currently building at
-- Invicta Holdings
-- EEST N°5
-
-### I tend to use:
+### Technologies
 - PostgreSQL
 - PUG for static sites
 - Next.js (JSX)
 - SASS (scss)
-
-#### I also know:
 - PHP
 - Firestore (firebase) (NoSQL)
 - MySQL
