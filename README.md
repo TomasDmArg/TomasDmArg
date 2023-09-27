@@ -6,6 +6,7 @@ Building VeriTrust Protocol, 1st - ETH Argentina Hackathon 2023 Public Goods Tra
 
 5th Argentina - OIA 2021 l2, C++ Problem Solving
 
+Computer Science @ EEST N°5, Mar del Plata
 
 You can contact me at <b>tomas@tdm.ar</b>
 
@@ -20,7 +21,7 @@ You can contact me at <b>tomas@tdm.ar</b>
 
 ### Projects I worked on
 - 2023 <b> VeriTrust </b> [URL](https://veritrust-front-qj44in647a-uc.a.run.app/)
-- 2023 <b> Tranqui V2 </b>
+- 2023 <b> Tranqui V2 </b> 
 - 2023 <b> ColosoLife</b> [coloso.life](https://coloso.life)
 - 2023 <b> MAJR Creators </b> [creators.majrdao.io](https://creators.majrdao.io)
 - 2023 <b> MAJR</b> [majr.io](https://majr.io)
