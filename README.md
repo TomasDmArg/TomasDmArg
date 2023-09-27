@@ -7,8 +7,7 @@ Building VeriTrust Protocol, 1st - ETH Argentina Hackathon 2023 Public Goods Tra
 5th Argentina - OIA 2021 l2, C++ Problem Solving
 
 
-You can contact me here: <b>tomas@tdm.ar</b>
-or at: https://tdm.ar
+You can contact me at <b>tomas@tdm.ar</b>
 
 <a target="_blank" href="https://www.linkedin.com/in/tomasdm/" target="_blank">
    <img alt="LinkedIn - tomasdm" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
