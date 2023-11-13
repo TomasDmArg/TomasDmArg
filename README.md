@@ -4,6 +4,8 @@ Full stack developer, UI/UX at Invicta Holdings
 
 Building VeriTrust Protocol, 1st - ETH Argentina Hackathon 2023 Public Goods Track. Chainlink Grant. Most-voted team on quadratic funding.
 
+1st place - Algorand Hacker House 2023 (LABITCONF, Buenos Aires - Argentina) 
+
 5th Argentina - OIA 2021 l2, C++ Problem Solving
 
 Computer Science @ EEST N°5, Mar del Plata
