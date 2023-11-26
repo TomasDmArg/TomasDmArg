@@ -22,9 +22,10 @@ You can contact me at <b>tomas@tdm.ar</b>
 
 
 ### Projects I worked on
-- 2023 <b> VeriTrust </b> [URL](https://veritrust-front-qj44in647a-uc.a.run.app/)
-- 2023 <b> Tranqui V2 </b> 
-- 2023 <b> ColosoLife</b> [coloso.life](https://coloso.life)
+- 2023 <b> FinGuru Voice2Post </b> [URL](https://finguru-ui-ux-voicetopost-qj44in647a-uc.a.run.app/)
+- 2023 <b> VeriTrust Protocol </b> [URL](https://veritrust-front-qj44in647a-uc.a.run.app/)
+- 2023 <b> Tranqui V2 </b> [tranqui.eest5.com.ar](tranqui.eest5.com.ar)
+- 2023 <b> ColosoLife</b> [coloso.life](https://coloso.life)  [app.coloso.life](https://app.coloso.life)
 - 2023 <b> MAJR Creators </b> [creators.majrdao.io](https://creators.majrdao.io)
 - 2023 <b> MAJR</b> [majr.io](https://majr.io)
 - 2023 <b> majr-react </b> [NPM Package](https://www.npmjs.com/package/majr-react)
