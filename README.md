@@ -1,6 +1,6 @@
 ## Hi!, I'm Tomas Di Mauro 👋
 
-Full stack developer, UI/UX at Invicta Holdings
+Full stack developer, UI/UX at FinGurú. Consultant at Invicta Blockchain Ventures
 
 Building VeriTrust Protocol, 1st - ETH Argentina Hackathon 2023 Public Goods Track. Chainlink Grant. Most-voted team on quadratic funding.
 
