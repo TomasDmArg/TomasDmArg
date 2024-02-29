@@ -2,7 +2,7 @@
 
 Full stack developer, UI/UX at FinGurú. Consultant at Invicta Blockchain Ventures
 
-Building VeriTrust Protocol, 1st - ETH Argentina Hackathon 2023 Public Goods Track. Chainlink Grant. Most-voted team on quadratic funding.
+1st - ETH Argentina Hackathon 2023, VeriTrust Protocol - Public Goods Track.  Chainlink Grant. Most-voted team on quadratic funding.
 
 1st place - Algorand Hacker House 2023 (LABITCONF, Buenos Aires - Argentina) 
 
