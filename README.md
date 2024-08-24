@@ -2,7 +2,7 @@
 
 Full stack developer, UI/UX at FinGurú. Consultant at Invicta Blockchain Ventures
 
-1st place - The Level Up Hackathon by Ethereum Argentina 2024, ChatterPay - Keystore track, General
+1st place - The Level Up Hackathon by Ethereum Argentina 2024, ChatterPay - Keystore track, General. API3 Grant. Most-voted team on quadratic funding.
 
 1st place - ETH Argentina Hackathon 2023, VeriTrust Protocol - Public Goods Track.  Chainlink Grant. Most-voted team on quadratic funding.
 
