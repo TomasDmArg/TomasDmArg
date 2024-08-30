@@ -1,6 +1,12 @@
 ## Hi!, I'm Tomas Di Mauro 👋
 
-Full stack developer, UI/UX at FinGurú. Consultant at Invicta Blockchain Ventures
+Building ChatterPay, making DeFi as easy to use as sending a text message
+
+Full stack developer, UI/UX at FinGurú. Consultant at Invicta Ventures
+
+Achievements:
+
+Winner team (1 of 6) - Ethereum Uruguay 2024 w/ ChatterPay. Grants from The Graph, ICP and Scroll.
 
 1st place - The Level Up Hackathon by Ethereum Argentina 2024, ChatterPay - Keystore track, General. API3 Grant. Most-voted team on quadratic funding.
 
