@@ -6,6 +6,8 @@ Full stack developer, UI/UX at [FinGurú](https://fin.guru). Consultant at [Invi
 
 ### Achievements:
 
+Winner team - ICP Chain Fusion Hackathon BA (2024).
+
 Winner team (1 of 6) - Ethereum Uruguay 2024 w/ ChatterPay. Grants from The Graph, ICP and Scroll.
 
 1st place - The Level Up Hackathon by Ethereum Argentina 2024, ChatterPay - Keystore track, General. API3 Grant. Most-voted team on quadratic funding.
