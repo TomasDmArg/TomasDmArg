@@ -5,6 +5,7 @@ Building [**ChatterPay**](https://chatterpay.net), making DeFi as easy to use as
 Full stack developer, UI/UX at [FinGurú](https://fin.guru). Consultant at [Invicta Ventures](https://invictacrypto.io). Lead developer at [Tranqui](https://tranqui.mdp.edu.ar)
 
 ### Achievements:
+2nd place - Circle Programmable Wallets, ETH Global Bangkok 2024
 
 Winner team - ICP Chain Fusion Hackathon BA (2024).
 
