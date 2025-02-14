@@ -2,7 +2,7 @@
 
 Building [**ChatterPay**](https://chatterpay.net), making DeFi as easy to use as sending a text message
 
-Full stack developer, UI/UX at [FinGurú](https://fin.guru). Consultant at [Invicta Ventures](https://invictacrypto.io). Lead developer at [Tranqui](https://tranqui.mdp.edu.ar)
+Lead Developer at [FinGurú](https://fin.guru). Consultant at [Invicta Ventures](https://invictacrypto.io).
 
 ### Achievements:
 2nd place - Circle Programmable Wallets, ETH Global Bangkok 2024
@@ -18,8 +18,6 @@ Winner team (1 of 6) - Ethereum Uruguay 2024 w/ ChatterPay. Grants from The Grap
 1st place - Algorand Hacker House 2023 (LABITCONF, Buenos Aires - Argentina) 
 
 5th Argentina - OIA 2021 l2, C++ Problem Solving
-
-Computer Science @ EEST N°5, Mar del Plata
 
 You can contact me at <b>tomas@tdm.ar</b>
 
@@ -76,21 +74,5 @@ You can contact me at <b>tomas@tdm.ar</b>
 - Firebase
 - Linux server admin. (Also Google/Oracle cloud)
 
-
-
-<!--
-**TomasDmArg/TomasDmArg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Visitors:<br/>
 <img src="https://profile-counter.glitch.me/{TomasDmArg}/count.svg" alt="TomasDmArg :: Visitor's Count" />
