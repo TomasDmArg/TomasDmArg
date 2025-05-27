@@ -1,8 +1,11 @@
 ## Hi!, I'm Tomas Di Mauro 👋
 
-Building [**ChatterPay**](https://chatterpay.net), making DeFi as easy to use as sending a text message
+Building [**ChatterPay**](https://chatterpay.net), send and receive crypto with just WhatsApp messages!
 
-Lead Developer at [FinGurú](https://fin.guru). Consultant at [Invicta Ventures](https://invictacrypto.io).
+Advisor at [Invicta Ventures](https://invictacrypto.io).
+
+Prev. Lead Developer at [FinGurú](https://fin.guru). 
+Prev. Full Stack Developer at [Argenenergy](https://argenenergy.net/)
 
 ### Achievements:
 2nd place - Circle Programmable Wallets, ETH Global Bangkok 2024
@@ -29,10 +32,14 @@ You can contact me at <b>tomas@tdm.ar</b>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TomasDmArg&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="ovi" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=TomasDmArg&theme=dark&hide_border=true" alt="mystreak"/>
 
-
 ### Projects I worked on
-- 2024 <b> FinGurú Cursos </b> [fin.guru](https://cursos.fin.guru/en)
-- 2024 <b> FinGurú (News App) </b> [fin.guru](https://fin.guru/en)
+- 2025 <b> Argenenergy - Internal Crews Management System </b> [website](https://argenenergy.net/)
+- 2024, 2025 <b> ChatterPay (Back, Smart Contracts) </b> [chatterpay.net](https://chatterpay.net)
+- 2024, 2025 <b> FinGurú - Internal Management System </b> [fin.guru](https://fin.guru/en)
+- 2024, 2025 <b> FinGurú Cursos </b> [fin.guru](https://cursos.fin.guru/en)
+- 2024, 2025 <b> FinGurú (News App) </b> [fin.guru](https://fin.guru/en)
+- 2024 <b> ChatterPay - QR Payments </b> [ETH Global Bangkok 2024](https://ethglobal.com/showcase/chatterpay-j4v66)
+- 2023, 2024 <b> Tranqui App </b> [playstore](https://play.google.com/store/apps/details?id=com.tranquiapp.v2&hl=en_IE)
 - 2024 <b> Spazios </b> [URL](spazios-frontend-h4p6rtix6a-uc.a.run.app)
 - 2023 <b> FinGurú Voice2Post (LABITCONF) </b> [URL](https://finguru-ui-ux-voicetopost-qj44in647a-uc.a.run.app/)
 - 2023 <b> VeriTrust Protocol (ETH Argentina)</b> [URL](https://veritrust-front-qj44in647a-uc.a.run.app/)
@@ -55,24 +62,22 @@ You can contact me at <b>tomas@tdm.ar</b>
 - 2019 <b> Enganches Dima </b> [Netlify Link](https://nervous-easley-7b832c.netlify.app/)
   
 ### Technologies
-- PostgreSQL
-- PUG for static sites
-- Next.js (JSX)
-- SASS (scss)
-- PHP
-- Firestore (firebase) (NoSQL)
-- MySQL
-- Node
-- C++ (for competitions only)
-- Batch
-- LESS/Stylus
+Front: Typescript/Javascript, Next.js, React.js, Remix, Ionic Framework, Tailwind CSS, SCSS, LESS, PUG. 
+Back: Bun, Node, Fastify, Express, Python, Fastapi, PHP, CrewAI.
+Crypto: Solidity (Basic), AA/UserOps, ethers, viem, hardhat, foundry, wagmi, anvil.
+DB: MySQL, Postgres, MongoDB, Firestore.
+Other: C++, Batch.
+Testing: Jest, Cypress, Forge.
 
 #### Other tools/skills
-- Figma (UI Design)
-- Bootstrap 5 / Tailwind
+- Figma (UI/UX Design)
 - Supabase
-- Firebase
-- Linux server admin. (Also Google/Oracle cloud)
+- Google Cloud Platform
+- Git/GitHub
+- SCRUM
+- Linux Server
+- Postman
+- Storybook
 
 Visitors:<br/>
 <img src="https://profile-counter.glitch.me/{TomasDmArg}/count.svg" alt="TomasDmArg :: Visitor's Count" />
