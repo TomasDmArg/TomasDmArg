@@ -63,10 +63,15 @@ You can contact me at <b>tomas@tdm.ar</b>
   
 ### Technologies
 Front: Typescript/Javascript, Next.js, React.js, Remix, Ionic Framework, Tailwind CSS, SCSS, LESS, PUG. 
+
 Back: Bun, Node, Fastify, Express, Python, Fastapi, PHP, CrewAI.
+
 Crypto: Solidity (Basic), AA/UserOps, ethers, viem, hardhat, foundry, wagmi, anvil.
+
 DB: MySQL, Postgres, MongoDB, Firestore.
+
 Other: C++, Batch.
+
 Testing: Jest, Cypress, Forge.
 
 #### Other tools/skills
