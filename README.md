@@ -8,6 +8,8 @@ Prev. Lead Developer at [FinGurú](https://fin.guru).
 Prev. Full Stack Developer at [Argenenergy](https://argenenergy.net/)
 
 ### Achievements:
+3rd place - Best Use of Payments on Polygon, ETH Global Buenos Aires 2025
+
 1st place - ICP WCHL25 National Round. Honorable mention - ICP WCHL25 Global Finale 
 
 1st place - Best dApp built on Saga Chain, ETH Global Cannes 2025
