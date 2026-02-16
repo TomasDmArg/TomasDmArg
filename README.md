@@ -39,10 +39,10 @@ You can contact me at <b>tomas@tdm.ar</b>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=TomasDmArg&theme=dark&hide_border=true" alt="mystreak"/>
 
 ### Projects I worked on
-- 2024 - 2026 <b >ChatterPay </b> [chatterpay.net](https://chatterpay.net)
-- 2025 - 2026 <b> Polo Ambiental MGP </b> Internal waste management system [https://www.mardelplata.gob.ar/](https://www.mardelplata.gob.ar/)
-- 2025 <b> Scroll - Local Node Argentina</b> Technical advisor [scroll.io](https://scroll.io/) [https://www.buidlers.tech/](https://www.buidlers.tech/)
-- 2025 <b> Argenenergy - Internal Crews Management System </b> [website](https://argenenergy.net/)
+- 2024 - 2026 <b> ChatterPay </b> [chatterpay.net](https://chatterpay.net)
+- 2025 - 2026 <b> Polo Ambiental MGP </b> Internal waste management system [mardelplata.gob.ar](https://www.mardelplata.gob.ar/)
+- 2025 <b> Scroll - Local Node Argentina</b> Technical advisor [scroll.io](https://scroll.io/) [buidlers.tech](https://www.buidlers.tech/)
+- 2025 <b> Argenenergy - Internal Crews Management System </b> [argenenergy.net](https://argenenergy.net/)
 - 2024 - 2025 <b> FinGurú - Internal Management System </b> [fin.guru](https://fin.guru/en)
 - 2024 - 2025 <b> FinGurú Cursos </b> [fin.guru](https://cursos.fin.guru/en)
 - 2024 - 2025 <b> FinGurú (News App) </b> [fin.guru](https://fin.guru/en)
