@@ -10,7 +10,7 @@ Prev. Full Stack Developer at [Argenenergy](https://argenenergy.net/)
 ### Achievements:
 3rd place - Best Use of Payments on Polygon, ETH Global Buenos Aires 2025
 
-1st place - ICP WCHL25 National Round. Honorable mention - ICP WCHL25 Global Finale 
+1st place - ICP WCHL25 National Round. Honorable mention - ICP WCHL25 Global Finale (Remote)
 
 1st place - Best dApp built on Saga Chain, ETH Global Cannes 2025
 
@@ -39,13 +39,15 @@ You can contact me at <b>tomas@tdm.ar</b>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=TomasDmArg&theme=dark&hide_border=true" alt="mystreak"/>
 
 ### Projects I worked on
+- 2024 - 2026 <b >ChatterPay </b> [chatterpay.net](https://chatterpay.net)
+- 2025 - 2026 <b> Polo Ambiental MGP </b> Internal waste management system [https://www.mardelplata.gob.ar/](https://www.mardelplata.gob.ar/)
+- 2025 <b> Scroll - Local Node Argentina</b> Technical advisor [scroll.io](https://scroll.io/) [https://www.buidlers.tech/](https://www.buidlers.tech/)
 - 2025 <b> Argenenergy - Internal Crews Management System </b> [website](https://argenenergy.net/)
-- 2024, 2025 <b> ChatterPay (Back, Smart Contracts) </b> [chatterpay.net](https://chatterpay.net)
-- 2024, 2025 <b> FinGurú - Internal Management System </b> [fin.guru](https://fin.guru/en)
-- 2024, 2025 <b> FinGurú Cursos </b> [fin.guru](https://cursos.fin.guru/en)
-- 2024, 2025 <b> FinGurú (News App) </b> [fin.guru](https://fin.guru/en)
+- 2024 - 2025 <b> FinGurú - Internal Management System </b> [fin.guru](https://fin.guru/en)
+- 2024 - 2025 <b> FinGurú Cursos </b> [fin.guru](https://cursos.fin.guru/en)
+- 2024 - 2025 <b> FinGurú (News App) </b> [fin.guru](https://fin.guru/en)
 - 2024 <b> ChatterPay - QR Payments </b> [ETH Global Bangkok 2024](https://ethglobal.com/showcase/chatterpay-j4v66)
-- 2023, 2024 <b> Tranqui App </b> [playstore](https://play.google.com/store/apps/details?id=com.tranquiapp.v2&hl=en_IE)
+- 2023 - 2024 <b> Tranqui App </b> [playstore](https://play.google.com/store/apps/details?id=com.tranquiapp.v2&hl=en_IE)
 - 2024 <b> Spazios </b> [URL](spazios-frontend-h4p6rtix6a-uc.a.run.app)
 - 2023 <b> FinGurú Voice2Post (LABITCONF) </b> [URL](https://finguru-ui-ux-voicetopost-qj44in647a-uc.a.run.app/)
 - 2023 <b> VeriTrust Protocol (ETH Argentina)</b> [URL](https://veritrust-front-qj44in647a-uc.a.run.app/)
